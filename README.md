@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-Software engineer at Microsoft To do. Managing data engineering pipelines<br>Studying LLMs to leverage their powers for making tools<br>Would love to collaborate on some small utility project<br>Ask me about: games, assistant-based tools<br>🎮 Current Gaming: Warzone, NFS Unbound, AoE4<br>
+Software engineer 2 at Microsoft To do. Managing data engineering pipelines<br>Studying LLMs to leverage their powers for making tools<br>Would love to collaborate on some small utility project<br>Ask me about: games, assistant-based tools<br>🎮 Current Gaming: Warzone, NFS Unbound, AoE4<br>
 
 
 ## 🌐 Socials:
